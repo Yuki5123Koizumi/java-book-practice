@@ -22,5 +22,5 @@ public class MyDiary{
         pi=10;
         System.out.println("半径"+pie+"cmのパイの面積は、");
         System.err.println(pie*pie*pi);
-                  }
+  }
 }
