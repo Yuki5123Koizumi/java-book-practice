@@ -12,10 +12,9 @@ public class MyDiary{
         salary=152000;
         long worldPeople;
         worldPeople=690000000L;
-        int age=20;
-        System.out.println("私の年齢は"+age)
+        System.out.println("私の年齢は"+age);
         age=31;
-        System.out.println("いや、本当の年齢は"＋28);
+        System.out.println("いや、本当の年齢は"+28);
         double pi=3.14;
         int pie=5;
         System.out.println("半径"+pie+"cmのパイの面積は、");
